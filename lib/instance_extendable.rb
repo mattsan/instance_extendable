@@ -1,5 +1,2 @@
-require "instance_extendable/version"
-
-module InstanceExtendable
-  # Your code goes here...
-end
+require 'instance_extendable/version'
+require 'instance_extendable/attributes'
