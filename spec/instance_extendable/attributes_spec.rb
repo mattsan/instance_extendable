@@ -1,4 +1,4 @@
-require "spec_helper"
+require 'spec_helper'
 
 RSpec.describe InstanceExtendable::Attributes do
   let(:extended_calss) { Class.new { include InstanceExtendable::Attributes } }
